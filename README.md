@@ -1,4 +1,4 @@
-# cPocket
+# enhance wallet
 
 <!--Background Story-->
 
@@ -16,4 +16,4 @@
     * Firebase
 
 ## Authors
-* Sk Rockybul Hasan Rasel, Junior Software Engineer, Custom App Development, iTech Soft Solutions - [Rasel]
+* Om shivam flutter team omninos solutions
